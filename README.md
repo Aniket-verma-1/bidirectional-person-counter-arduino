@@ -1,5 +1,5 @@
 # Bidirectional Person Counter using Arduino
-
+   ![Prototype](image.jpg)
 A low-cost room occupancy counter for classrooms and labs. It detects people
 entering and leaving through a door and shows the live count on an LCD.
 
