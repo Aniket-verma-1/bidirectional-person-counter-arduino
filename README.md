@@ -23,6 +23,8 @@ first, the person is leaving. The Arduino updates the counts and shows them
 on the LCD.
 
 ## Circuit Connections
+   ![Circuit Diagram](circuit_diagram.png)
+
 | Component | Arduino Pin |
 |-----------|-------------|
 | IR Sensor 1 OUT | D2 |
